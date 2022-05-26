@@ -1,0 +1,23 @@
+/* .flexy {
+  flex-direction: column;
+} */
+body {
+  background-color: teal;
+}
+
+.children {
+  display: flex;
+
+  justify-content: space-between;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px,
+    rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+  width: 20%;
+  margin: auto;
+  padding: 0px 10px;
+  margin-top: 20px;
+  color: white;
+}
+
+.para {
+  margin: 10px 0px;
+}
